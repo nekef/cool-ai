@@ -10,3 +10,9 @@ into basic input handling and conditional statements within a shell script while
 
 Usage:
    What you wanna do is git clone this like  
+   Git clone https://github.com/nekef/cool-ai/tree/mainai
+   Then you do 'cd main'
+   Then you do 'ls'
+   Then lastly you do './shell.sh
+   You probably want to download Git to do this.
+
